@@ -1,4 +1,7 @@
 alteracao1
 alteracao1
 alteracao1
+<<<<<<< HEAD
 ultima alteracao para ser anulada
+=======
+>>>>>>> d3682d2... Adicionado o ficheiro alteracao_2.txt
